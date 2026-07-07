@@ -168,7 +168,7 @@ export default function App() {
         
         {/* Dynamic Copyright statement */}
         <div style={{ fontSize: '0.85rem', fontWeight: '500', opacity: 0.8 }}>
-          © {new Date().getFullYear()} Davis. All rights reserved.
+          © {new Date().getFullYear()} Davis. All rights reserved. <span className="mx-2 opacity-40">|</span> Powered by zimbru.dev
         </div>
       </footer>
 
